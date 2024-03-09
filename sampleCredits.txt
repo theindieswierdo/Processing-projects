@@ -1,0 +1,27 @@
+Pacman animation made by student 2301701301 featuring:
+SCENE ONE: AN ANALOGUE CLOCK
+Source: This sketch is based on code from module lecture slides, Processing and chatGPT. The following adaptions have been made …
+Graphical elements/media: 
+Graphical primitives ####() and ####() are used for the clock face, ####() for the hour and minute hands and ####() for seconds.
+Programming:  
+Comment on how you control the movement. E.g., Use of … #####() and … to control and animate horizontally and vertically animated graphics. 
+SCENE TWO: PAC-MAN INSPIRED ANIMATION
+A chomping Pac-Man chased by two ghosts moving left and right 
+Graphical elements/media: 
+Pac-Man drawn with arc(), ghosts with SVG (ghost1.svg) and dots with circle().
+MP3/WAV file of ### compressed with Audacity (note. sound is optional)
+Programming:  
+Comment on Processing functions used, system variables, use of arrays, modular arithmetic etc. Say where and how they are used, e.g. modulo arithmetic used to cycle movement of ghost.
+SCENE THREE: PAC-MAN GHOST INSPIRED ANIMATION
+A chomping Pac-Man chased by two ghosts moving left and right 
+Graphical elements/media: 
+Pac-Man drawn with arc(), ghosts with SVG (ghost1.svg) and dots with circle().
+MP3/WAV file of ### compressed with Audacity (note. sound is optional)
+Programming:  
+Comment on Processing functions used, system variables, use of arrays, modular arithmetic etc. Say where and how they are used, e.g. modulo arithmetic used to cycle movement of ghost.
+SCENE FOUR: WRAP UP SCENE
+Vertically scrolling centred credits displayed with text() with font ###, colour ###. Credits text extracted from ### using ….
+SCENE 5: ROLLING CREDITS 
+Vertical scrolling centered credits are displayed with text() with font ###, colour ###. 
+Credits text extracted from a notepad file(.txt) using loadStrngs() 
+
